@@ -2,6 +2,6 @@
 
 ### Technology used
 - Raw php
-- HTML%
+- HTML5
 - CSS3
 - SQL
