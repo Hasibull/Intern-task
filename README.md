@@ -1,5 +1,7 @@
-# Technical Written Task
+# A simple task given for Internship program
 
-** I named the project as cake-world to make it a little human! :) **
-
-I used XAMPP as the localhost server.
+### Technology used
+- Raw php
+- HTML%
+- CSS3
+- SQL
